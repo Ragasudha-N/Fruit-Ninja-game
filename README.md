@@ -25,7 +25,9 @@ Technologies Used:
 Python
 OpenCV for hand gesture recognition
 Pygame for game development
+
 Contributors
-Your Name - Developer
+RAGASUDHA - Developer
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
